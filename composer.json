@@ -1,0 +1,11 @@
+{
+    "name": "magentohackaton/voicecontrol",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tim neutkens",
+            "email": "tim@weprovide.com"
+        }
+    ],
+    "require": {}
+}
