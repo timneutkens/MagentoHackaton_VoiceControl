@@ -10,7 +10,7 @@ Available commands:
 * Previous page
 * Search for <what you want to search for>
 
-Webshops usually don't get to talk that much. So maybe ask how the Magento is doing..?
+Webshops usually don't get to talk that much. So maybe ask how Magento is doing..?
 
 ## Installation
 
